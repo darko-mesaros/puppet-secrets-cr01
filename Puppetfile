@@ -7,7 +7,7 @@ mod "puppetlabs/ntp"
 mod "puppetlabs/stdlib"
 mod "puppet/staging"
 mod 'puppet-logrotate'
-mod "puppet/nginx
+mod 'puppet/nginx'
 mod 'puppetlabs-tomcat', '2.3.0'
 
 # Modules from my github
