@@ -9,6 +9,7 @@ mod "puppet/staging"
 mod 'puppet-logrotate'
 mod 'puppet/nginx'
 mod 'puppetlabs-tomcat', '2.3.0'
+mod 'arioch-redis', '3.3.0'
 
 # Modules from my github
 #mod 'ppet_aws_secrets',
